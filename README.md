@@ -1,6 +1,6 @@
 ## 🟡 달고나 🟡
 
-#### 👉 [그림으로 일상을 기록하고 감정까지 담아보는 나만의 일기장, <span style="color:yellow">달고나</span>](www.dalgona-latte.com)<br>
+#### 👉 [그림으로 일상을 기록하고 감정까지 담아보는 나만의 일기장, <span style="color:yellow">달고나</span>](https://dalgona.vercel.app/)<br>
 
 #### 👉 [원 페이지 노션 바로가기](https://teamsparta.notion.site/10-2e3a9fe37f104dfdbb6a1173cee9516a)
 
